@@ -1,0 +1,57 @@
+.body {
+    background-color: black;
+
+}
+.bulb-Image {
+    width: 150px;
+    padding-left:300px;
+
+}
+.Imag-cate{
+    width: 300px;
+    padding-left:210px;
+}
+.switch-board{
+  background-color: #7b8794;
+  width: 294px;
+  height: 150px;
+  border-radius: 50px;
+  padding-left: 60px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  margin: 170px;
+  margin-top: 40px;
+  margin-bottom:40px ;
+
+}
+.switch-status {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 24px;
+  
+
+}
+.off-switch {
+    color: #ffffff;
+  background-color: #e12d39;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: bold;
+  width: 99px;
+  height: 44px;
+  border-radius: 8px;
+}
+.on-switch {
+    color: #ffffff;
+  background-color: hsl(141, 16%, 82%);
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: bold;
+  width: 99px;
+  height: 44px;
+  border-radius: 8px;
+  margin-left: 16px;
+
+}
